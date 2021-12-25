@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hritikd3" alt="hritikd3" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/unrevealrich" target="blank"><img src="https://img.shields.io/twitter/follow/unrevealrich?logo=twitter&style=for-the-badge" alt="unrevealrich" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://test-pics.netlify.app/Programming%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://test-pics.netlify.app/hritiks.gif">
 
 - 🔭 I’m currently Exploring **React, DSA, Figma**
 
