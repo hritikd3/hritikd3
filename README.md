@@ -12,13 +12,13 @@
 
 - 👦 I’m looking to collaborate on **Frontend Projects or if you have an idea please connect with me **
 
-- 👨‍💻 All of my projects are available at [https://hritikdangi.vercel.app](https://hritikd3.netlify.app)
+- 👨‍💻 All of my projects are available at [https://hritikdangi.vercel.app](https://hritikdangi.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@hritikd3](https://medium.com/@hritikd3)
 
 - 📫 How to reach me **hritikdangi3@gmail.com**
 
-- 📄 Know about my experiences [https:/hritik-resume.vercel.app](https://bit.ly/hritikresume)
+- 📄 Know about my experiences [https://hritik-resume.vercel.app](https://hritik-resume.vercel.app)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
