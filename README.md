@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **hritikdangi3@gmail.com**
 
-- 📄 Know about my experiences [https://hritik-resume.vercel.app](https://hritik-resume.vercel.app)
+- 📄 Know about my experiences [https://hritik-resume.netlify.app](https://hritik-resume.vercel.app)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
