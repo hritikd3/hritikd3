@@ -8,19 +8,17 @@
 <p align="left"> <a href="https://twitter.com/unrevealrich" target="blank"><img src="https://img.shields.io/twitter/follow/unrevealrich?logo=twitter&style=for-the-badge" alt="unrevealrich" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://test-pics.netlify.app/hritiks.gif">
 
-- 🔭 I’m currently Exploring **React, DSA, Figma**
+- 🔭 I’m currently Exploring **React, Material UI ,Figma**
 
-- 🌱 I’m currently learning **React , Bootstrap5 , JS, HTML5, CSS3, Sass, Tailwind,Git**
+- 👦 I’m looking to collaborate on **Frontend Projects or if you have an idea please connect with me **
 
-- 👦 I’m looking to collaborate on **If you have any Project or idea**
-
-- 👨‍💻 All of my projects are available at [https://hritikd3.netlify.app](https://hritikd3.netlify.app)
+- 👨‍💻 All of my projects are available at [https://hritikdangi.vercel.app](https://hritikd3.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@hritikd3](https://medium.com/@hritikd3)
 
 - 📫 How to reach me **hritikdangi3@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/hritikresume](https://bit.ly/hritikresume)
+- 📄 Know about my experiences [https:/hritik-resume.vercel.app](https://bit.ly/hritikresume)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
