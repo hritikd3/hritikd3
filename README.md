@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hritikd3" alt="hritikd3" /></a> </p> 
 
 <p align="left"> <a href="https://twitter.com/unrevealrich" target="blank"><img src="https://img.shields.io/twitter/follow/unrevealrich?logo=twitter&style=for-the-badge" alt="unrevealrich" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://test-pics.netlify.app/hritiks.gif">
+<!-- // <img align="right" alt="Coding" width="300" src="https://test-pics.netlify.app/hritiks.gif"> -->
 
 - 🔭 I’m currently Exploring **React & blockchain technology**
 
@@ -18,11 +18,19 @@
 
 - 📫 How to reach me **hritikdangi3@gmail.com**
 
-- 📄 Know about my experiences [https://hritik-resume.netlify.app](https://hritik-resume.netlify.app)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
+
+
+
+
+
+<br>
+<hr>
+
+[![@hritikd3's Holopin board](https://holopin.me/hritikd3)](https://holopin.io/@hritikd3)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
