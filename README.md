@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/unrevealrich" target="blank"><img src="https://img.shields.io/twitter/follow/unrevealrich?logo=twitter&style=for-the-badge" alt="unrevealrich" /></a> </p>
 <!-- // <img align="right" alt="Coding" width="300" src="https://test-pics.netlify.app/hritiks.gif"> -->
 
-- 🔭 I’m currently Exploring **React & blockchain technology**
+- 🔭 I’m currently Exploring ** blockchain technology**
 
 - 👦 I’m looking to collaborate on **Frontend Projects or if you have an idea please ping me **
 
