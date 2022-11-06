@@ -25,12 +25,10 @@
 
 
 
-
 <br>
 <hr>
 
 [![@hritikd3's Holopin board](https://holopin.me/hritikd3)](https://holopin.io/@hritikd3)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
