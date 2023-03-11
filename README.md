@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Exploring **cloud computing & Nodejs**
 
-- 👦 I’m looking to collaborate on **Frontend Projects or if you have an idea please ping me **
+- 👦 I’m looking to collaborate on **Frontend Projects or if you have an idea please ping me**
 
 - 👨‍💻 My Portfolio [https://bit.ly/mehritik](https://bit.ly/mehritik)
 
