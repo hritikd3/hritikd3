@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://twitter.com/unrevealrich" target="blank"><img src="https://img.shields.io/twitter/follow/unrevealrich?logo=twitter&style=for-the-badge" alt="unrevealrich" /></a> </p>
 <!-- // <img align="right" alt="Coding" width="300" src="https://test-pics.netlify.app/hritiks.gif"> -->
 
-- 🔭 I’m currently Exploring ** blockchain technology**
+- 🔭 I’m currently Exploring ** cloud computing & Nodejs**
 
 - 👦 I’m looking to collaborate on **Frontend Projects or if you have an idea please ping me **
 
-- 👨‍💻 My Portfolio [https://hritikdangi.me](https://hritikdangi.me)
+- 👨‍💻 My Portfolio [https://bit.ly/mehritik](https://bit.ly/mehritik)
 
 - 📝 Sometime I try to write blogs on [https://medium.com/@hritikd3](https://medium.com/@hritikd3)
 
