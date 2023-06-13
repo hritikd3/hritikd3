@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAC/waving-hand-joypixels.gif" width="50" height="42">, I'm Hritik Dangi</h1> -->
-<h1 align="center"> Bonjour 👋, I'm Hritik Dangi</h1>
+<h1 align="center"> Bonjour 👋 , I'm Hritik Dangi</h1>
 <h3 align="center">Aspiring Full Stack Developer| Exploring React & Vanilla Js | Marketing & Advertising</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikd3&label=Profile%20views&color=0e75b6&style=flat" alt="hritikd3" /> </p>
